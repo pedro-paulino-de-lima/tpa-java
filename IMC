@@ -1,0 +1,19 @@
+/******************************************************************************
+
+Código de IMC
+Aula de TPA
+
+*******************************************************************************/
+
+import java.util.Scanner;
+
+public class Main
+{
+	public static void main(String[] args) {
+	    double weight, height, imc;
+	    String name;
+	    Scanner input = new Scanner(System.in);
+	    
+	    System.out.println("")
+	}
+}
